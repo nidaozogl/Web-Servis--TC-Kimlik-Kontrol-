@@ -1,0 +1,10 @@
+C:\Users\Nida Ozoglu\Desktop\TCKontrolWebServisi\TCKontrolWebServisi\bin\Debug\TCKontrolWebServisi.exe.config
+C:\Users\Nida Ozoglu\Desktop\TCKontrolWebServisi\TCKontrolWebServisi\bin\Debug\TCKontrolWebServisi.exe
+C:\Users\Nida Ozoglu\Desktop\TCKontrolWebServisi\TCKontrolWebServisi\bin\Debug\TCKontrolWebServisi.pdb
+C:\Users\Nida Ozoglu\Desktop\TCKontrolWebServisi\TCKontrolWebServisi\obj\Debug\TCKontrolWebServisi.csproj.AssemblyReference.cache
+C:\Users\Nida Ozoglu\Desktop\TCKontrolWebServisi\TCKontrolWebServisi\obj\Debug\TCKontrolWebServisi.Form1.resources
+C:\Users\Nida Ozoglu\Desktop\TCKontrolWebServisi\TCKontrolWebServisi\obj\Debug\TCKontrolWebServisi.Properties.Resources.resources
+C:\Users\Nida Ozoglu\Desktop\TCKontrolWebServisi\TCKontrolWebServisi\obj\Debug\TCKontrolWebServisi.csproj.GenerateResource.cache
+C:\Users\Nida Ozoglu\Desktop\TCKontrolWebServisi\TCKontrolWebServisi\obj\Debug\TCKontrolWebServisi.csproj.CoreCompileInputs.cache
+C:\Users\Nida Ozoglu\Desktop\TCKontrolWebServisi\TCKontrolWebServisi\obj\Debug\TCKontrolWebServisi.exe
+C:\Users\Nida Ozoglu\Desktop\TCKontrolWebServisi\TCKontrolWebServisi\obj\Debug\TCKontrolWebServisi.pdb
